@@ -4,7 +4,7 @@ import { css } from "@emotion/core";
 export default () => (
   <h1
     css={css`
-      color: red;
+      color: green;
     `}
   >
     Open Music Box
